@@ -1,0 +1,14 @@
+streamlit
+PyMuPDF
+pytesseract
+opencv-python
+pandas
+python-docx
+langchain
+langchain-classic
+langchain-google-genai
+langchain-community
+faiss-cpu
+python-dotenv
+tiktoken
+fpdf2
