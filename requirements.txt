@@ -12,3 +12,4 @@ faiss-cpu
 python-dotenv
 tiktoken
 fpdf2
+langsmith
